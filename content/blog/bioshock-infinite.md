@@ -6,7 +6,7 @@ description: "Goriber review presents - bioshock infinite"
 draft: false
 ---
 
-# Bioshock Infinite - Ekta bhala game with matha noshto story and shundor beti
+# Bioshock Infinite - My dissapointment is immeasurable and my day is ruined.
 
 - Game name: Bioshock Infinite
 - Developers: Irrational games, 2k Marin
